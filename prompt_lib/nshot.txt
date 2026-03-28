@@ -1,0 +1,6 @@
+{question}
+A. {choice_0}
+B. {choice_1}
+C. {choice_2}
+D. {choice_3}
+Answer: {label}
